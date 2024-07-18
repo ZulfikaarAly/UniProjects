@@ -1,0 +1,11 @@
+﻿  MainGame.cpp
+C:\Users\Hamza\PROJECTS\Chess2D\Chess2D\Pieces.h(478,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainGame.cpp')
+  
+C:\Users\Hamza\PROJECTS\Chess2D\Chess2D\Pieces.h(478,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainGame.cpp')
+  
+C:\Users\Hamza\PROJECTS\Chess2D\Chess2D\Pieces.h(562,37): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  (compiling source file 'MainGame.cpp')
+  
+  Chess2D.vcxproj -> C:\Users\Hamza\PROJECTS\Chess2D\x64\Debug\Chess2D.exe
