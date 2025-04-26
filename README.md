@@ -1,4 +1,4 @@
-Technical Projects
+#Technical Projects
 Chesscalibur (2D Chess Game)
 
 Developed Chesscalibur, a 2D chess game set in a retro, mystical, pixelated world using C++ and SFML for graphics.
