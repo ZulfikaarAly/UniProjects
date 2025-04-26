@@ -1,8 +1,18 @@
-# UniProjects
-These are the projects on which I have worked during my last three semesters at Bahria University (Islamabad) 
-The projects include :
+Technical Projects
+Chesscalibur (2D Chess Game)
 
-1-> Chesscalibur : A 2-D chess game inspired in a retro mystical pixelated world.
+Developed Chesscalibur, a 2D chess game set in a retro, mystical, pixelated world using C++ and SFML for graphics.
 
-2-> FactorialGenerator : A factorial generator that generates factorial of numbers from 0 to 99 in Assembly Language using Irvine Library.
-                
+Focused on creating an engaging and responsive gameplay experience through efficient object-oriented programming.
+
+Factorial Generator (Assembly Language Project)
+
+Built FactorialGenerator, a program to compute factorials of numbers from 0 to 99 in Assembly Language, utilizing the Irvine Library.
+
+Emphasized low-level programming skills, optimized memory usage, and accurate algorithmic logic.
+
+Cisco Networking Simulation (LinkedIn Project)
+
+Designed and simulated real-world networking topologies covering TCP/IP, HTTP, FTP, and DNS protocols using Cisco Packet Tracer.
+
+Published detailed simulation insights and project demonstration on LinkedIn to showcase networking skills and protocol handling.
