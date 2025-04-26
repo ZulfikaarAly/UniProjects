@@ -1,18 +1,48 @@
-#Technical Projects
-Chesscalibur (2D Chess Game)
+🧙‍♂️ Chesscalibur
+Chesscalibur is a 2D chess game set in a retro, mystical, pixelated world, developed using C++ and SFML for graphics rendering.
 
-Developed Chesscalibur, a 2D chess game set in a retro, mystical, pixelated world using C++ and SFML for graphics.
+✨ Features
+♟️ Fully playable chess with standard rules
 
-Focused on creating an engaging and responsive gameplay experience through efficient object-oriented programming.
+🧙‍♂️ Retro pixel-art environment
 
-Factorial Generator (Assembly Language Project)
+🎯 Smooth and responsive user interface
 
-Built FactorialGenerator, a program to compute factorials of numbers from 0 to 99 in Assembly Language, utilizing the Irvine Library.
+🎨 Custom assets designed using Pxlr
 
-Emphasized low-level programming skills, optimized memory usage, and accurate algorithmic logic.
+🛠️ Technologies Used
+Programming Language: C++
 
-Cisco Networking Simulation (LinkedIn Project)
+Graphics Library: SFML
 
-Designed and simulated real-world networking topologies covering TCP/IP, HTTP, FTP, and DNS protocols using Cisco Packet Tracer.
+Asset Design: Pxlr Editor
 
-Published detailed simulation insights and project demonstration on LinkedIn to showcase networking skills and protocol handling.
+                                             __________________________________________
+
+### Features
+- 🧮 Supports numbers from 0–99
+- ⚡ Optimized memory usage
+- 🖥️ Simple command-line interface
+
+### Technologies Used
+- Assembly Language (x86)  
+- Irvine32 Library
+
+### How to Run
+1. Install MASM and Irvine32 library.
+2. Compile `.asm` file.
+3. Run the program.
+
+
+                                                _________________________________________
+
+🌐 Cisco Networking Simulation
+
+Designed a simulation showcasing the functioning of protocols such as **TCP/IP, HTTP, FTP, and DNS** using **Cisco Packet Tracer**.
+
+- Simulated realistic network topologies.
+- Demonstrated protocol interaction and troubleshooting techniques.
+- Project showcased on my https://www.linkedin.com/in/zulfiqar-ali-517608260/
+
+
+                                                ___________________________________________
